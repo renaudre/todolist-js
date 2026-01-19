@@ -1,5 +1,4 @@
 let tache = document.querySelector("#tacheInput");
-let taches = [];
 let personne = document.querySelector("#personneInput");
 let btn = document.querySelector("#ajouterBtn");
 let tab = document.querySelector("#tache tbody");
