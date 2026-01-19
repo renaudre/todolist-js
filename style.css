@@ -70,18 +70,20 @@ td, th {
 }
 
 /* Boutons dans le tableau */
-tbody button {
-    padding: 5px 10px;
-    font-size: 12px;
-    border: none;
-    background-color: #dc3545;
-    color: white;
+button {
     cursor: pointer;
 }
-
-tbody button:hover {
-    background-color: #c82333;
+.fait {
+    background-color: #c8e6c9; /* vert doux */
+    color: #256029; /* texte vert foncé pour contraste */
 }
+
+.afaire {
+    background-color: #ffcdd2; /* rouge clair/pastel */
+    color: #b71c1c; /* texte rouge foncé pour contraste */
+}
+
+
 
 /* =========================
    Tablette / Desktop
